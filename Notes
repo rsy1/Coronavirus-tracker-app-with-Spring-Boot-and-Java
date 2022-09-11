@@ -1,0 +1,6 @@
+Disclaimers
+=======================
+
+1. Avoid saving state/values in Spring services
+2. Write tests for the code
+3. Data validity depends on the source
